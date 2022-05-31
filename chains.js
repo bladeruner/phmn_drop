@@ -203,7 +203,7 @@ const chains = {
 		"gas": "80000",
 		"denom": "afet",
 		"explorer": "https://www.mintscan.io/fetchai/txs/",
-		"merge": 1
+		"merge": 0
 	},
 	"graviton":
 	{
@@ -391,7 +391,7 @@ const chains = {
 	"panacea":
 	{
 		"id": "panacea",
-		"name": "Panacea",
+		"name": "Mediblock",
 		"chain_id": "panacea-3",
 		"rpc": [
 			{
