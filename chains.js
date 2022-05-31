@@ -184,7 +184,7 @@ const chains = {
 	},
 	"fetch":
 	{
-		"id": "fetch",
+		"id": "fet",
 		"name": "Fetch Hub",
 		"chain_id": "fetchhub-4",
 		"rpc": [
