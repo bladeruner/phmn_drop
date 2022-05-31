@@ -271,7 +271,7 @@ const chains = {
 				"provider": "Notional"
 			}
 		],
-		"address": "juno14hj3ecw0wfaylqm4uakgnq48hvzwqxfdzc9hng",
+		"address": "juno1ewn73qp0aqrtya38p0nv5c2xsshdea7anc9t8k",
 		"amount": "1",
 		"fee": "200",
 		"gas": "80000",
