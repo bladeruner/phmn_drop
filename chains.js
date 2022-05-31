@@ -355,7 +355,7 @@ const chains = {
 	},
 	"mantle":
 	{
-		"id": "mantle",
+		"id": "mntl",
 		"name": "Asset Mantle",
 		"chain_id": "mantle-1",
 		"rpc": [
