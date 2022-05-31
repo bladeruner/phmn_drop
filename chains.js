@@ -184,7 +184,7 @@ const chains = {
 	},
 	"fet":
 	{
-		"id": "fet",
+		"id": "fetch",
 		"name": "Fetch Hub",
 		"chain_id": "fetchhub-4",
 		"rpc": [
@@ -207,7 +207,7 @@ const chains = {
 	},
 	"graviton":
 	{
-		"id": "graviton",
+		"id": "gravity",
 		"name": "Gravity Bridge",
 		"chain_id": "gravity-bridge-3",
 		"rpc": [
