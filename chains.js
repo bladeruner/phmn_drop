@@ -57,20 +57,20 @@ const chains = {
 		"chain_id": "chihuahua-1",
 		"rpc": [
 			{
-				"address":"https://rpc.chihuahua.wtf/",
-				"provider":"Chihuahua"
+				"address": "https://rpc.chihuahua.wtf/",
+				"provider": "Chihuahua"
 			},
 			{
-				"address":"https://rpc-chihuahua.ecostake.com/",
-				"provider":"ecostake"
+				"address": "https://rpc-chihuahua.ecostake.com/",
+				"provider": "ecostake"
 			},
 			{
-				"address":"https://chihuahua-rpc.polkachu.com/",
-				"provider":"Polkachu"
+				"address": "https://chihuahua-rpc.polkachu.com/",
+				"provider": "Polkachu"
 			},
 			{
-				"address":"https://rpc-chihuahua-ia.notional.ventures/",
-				"provider":"Notional"
+				"address": "https://rpc-chihuahua-ia.notional.ventures/",
+				"provider": "Notional"
 			}
 		],
 		"address": "chihuahua1ewn73qp0aqrtya38p0nv5c2xsshdea7axlt7pg",
@@ -103,7 +103,7 @@ const chains = {
 				"address": "https://rpc-cerberus-ia.notional.ventures",
 				"provider": "Notional"
 			}
-		],		
+		],
 		"address": "cerberus1v4xjvmka36peq6lp2vahxax96540nek5dlfdkt",
 		"amount": "1",
 		"fee": "5000",
@@ -182,9 +182,9 @@ const chains = {
 		"explorer": "https://ping.pub/bostrom/tx/",
 		"merge": 1
 	},
-	"fet":
+	"fetch":
 	{
-		"id": "fetch",
+		"id": "fet",
 		"name": "Fetch Hub",
 		"chain_id": "fetchhub-4",
 		"rpc": [
@@ -203,11 +203,11 @@ const chains = {
 		"gas": "80000",
 		"denom": "afet",
 		"explorer": "https://www.mintscan.io/fetchai/txs/",
-		"merge": 0
+		"merge": 1
 	},
-	"graviton":
+	"gravity":
 	{
-		"id": "gravity",
+		"id": "graviton",
 		"name": "Gravity Bridge",
 		"chain_id": "gravity-bridge-3",
 		"rpc": [
@@ -455,7 +455,7 @@ const chains = {
 			{
 				"address": "https://rpc-osmosis-ia.notional.ventures/",
 				"provider": "Notional"
-			}			
+			}
 		],
 		"address": "osmo1ewn73qp0aqrtya38p0nv5c2xsshdea7ad34qkc",
 		"amount": "1",
