@@ -47,6 +47,7 @@ const chains = {
 		"fee": "25000",
 		"gas": "80000",
 		"denom": "uatom",
+		"snapshop": "04.05.2022",
 		"explorer": "https://www.mintscan.io/cosmos/txs/",
 		"merge": 1
 	},
@@ -78,6 +79,7 @@ const chains = {
 		"fee": "25000",
 		"gas": "80000",
 		"denom": "uhuahua",
+		"snapshop": "04.05.2022",
 		"explorer": "https://www.mintscan.io/chihuahua/txs/",
 		"merge": 1
 	},
@@ -109,6 +111,7 @@ const chains = {
 		"fee": "5000",
 		"gas": "200000",
 		"denom": "ucrbrus",
+		"snapshop": "04.05.2022",
 		"explorer": "https://ping.pub/cerberus/tx/",
 		"merge": 1
 	},
@@ -152,6 +155,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "ucmdx",
+		"snapshop": "06.05.2022",
 		"explorer": "https://www.mintscan.io/comdex/txs/",
 		"merge": 1
 	},
@@ -179,6 +183,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "boot",
+		"snapshop": "04.05.2022",
 		"explorer": "https://ping.pub/bostrom/tx/",
 		"merge": 1
 	},
@@ -202,6 +207,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "afet",
+		"snapshop": "04.05.2022",
 		"explorer": "https://www.mintscan.io/fetchai/txs/",
 		"merge": 1
 	},
@@ -237,6 +243,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "ugraviton",
+		"snapshop": "04.05.2022",
 		"explorer": "https://www.mintscan.io/gravity-bridge/txs/",
 		"merge": 1
 	},
@@ -276,6 +283,7 @@ const chains = {
 		"fee": "200",
 		"gas": "80000",
 		"denom": "ujuno",
+		"snapshop": "03.05.2022",
 		"explorer": "https://www.mintscan.io/juno/txs/",
 		"merge": 1,
 		"merge_main": 1
@@ -308,6 +316,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "uxki",
+		"snapshop": "03.05.2022",
 		"explorer": "https://www.mintscan.io/ki-chain/txs/",
 		"merge": 1
 	},
@@ -331,6 +340,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "nanolike",
+		"snapshop": "04.05.2022",
 		"explorer": "https://likecoin.bigdipper.live/transactions/",
 		"merge": 1
 	},
@@ -350,6 +360,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "ulum",
+		"snapshop": "04.05.2022",
 		"explorer": "https://www.mintscan.io/lum/txs/",
 		"merge": 0
 	},
@@ -385,6 +396,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "umntl",
+		"snapshop": "04.05.2022",
 		"explorer": "https://www.mintscan.io/asset-mantle/txs/",
 		"merge": 1
 	},
@@ -404,6 +416,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "umed",
+		"snapshop": "03.05.2022",
 		"explorer": "https://www.mintscan.io/medibloc/txs/",
 		"merge": 0
 	},
@@ -423,6 +436,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "loki",
+		"snapshop": "04.05.2022",
 		"explorer": "https://mainnet.odinprotocol.io/transactions/",
 		"merge": 1
 	},
@@ -462,6 +476,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "uosmo",
+		"snapshop": "03.05.2022",
 		"explorer": "https://www.mintscan.io/osmosis/txs/",
 		"merge": 1
 	},
@@ -485,6 +500,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "uxprt",
+		"snapshop": "03.05.2022",
 		"explorer": "https://www.mintscan.io/persistence/txs/",
 		"merge": 0
 	},
@@ -504,6 +520,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "uatolo",
+		"snapshop": "04.05.2022",
 		"explorer": "https://www.mintscan.io/rizon/txs/",
 		"merge": 1
 	},
@@ -533,6 +550,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "urowan",
+		"snapshop": "04.05.2022",
 		"explorer": "https://ping.pub/sifchain/tx/",
 		"merge": 1
 	},
@@ -572,6 +590,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "ustars",
+		"snapshop": "04.05.2022",
 		"explorer": "https://www.mintscan.io/stargaze/txs/",
 		"merge": 1
 	},
@@ -595,6 +614,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "uiov",
+		"snapshop": "03.05.2022",
 		"explorer": "https://www.mintscan.io/starname/txs/",
 		"merge": 0
 	},
@@ -638,6 +658,7 @@ const chains = {
 		"fee": "2000",
 		"gas": "80000",
 		"denom": "uumee",
+		"snapshop": "04.05.2022",
 		"explorer": "https://www.mintscan.io/umee/txs/",
 		"merge": 1
 	}
